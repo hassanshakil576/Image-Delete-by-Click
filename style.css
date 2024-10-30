@@ -1,0 +1,13 @@
+#img{
+    width: 300px;
+}
+.head-one{
+    text-align: center;
+}
+.images{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    list-style-type: none;
+}
